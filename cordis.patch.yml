@@ -1,0 +1,3 @@
+- insert:
+    - id: theme-skin
+      name: '@local/theme-skin'
